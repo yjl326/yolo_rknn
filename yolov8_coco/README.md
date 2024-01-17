@@ -1,3 +1,2 @@
-获取rknn模型，请参考https://cn.bing.com/search?q=RK3588+%E9%83%A8%E7%BD%B2yolov8&cvid=bc7d1daf51d341289d97520b77714749&gs_lcrp=EgZjaHJvbWUqBwgAEOoHGEAyBwgAEOoHGEAyBwgBEOoHGEAyBwgCEOoHGEAyBwgDEOoHGEAyBwgEEOoHGEAyBwgFEOoHGEAyBwgGEOoHGEAyBwgHEOoHGEDSAQkzNzQyOGowajSoAgCwAgA&FORM=ANAB01&PC=U531
-
+获取rknn模型，请参考https://blog.csdn.net/m0_48979117/article/details/135628375
 运行yolov8_test.py即可
